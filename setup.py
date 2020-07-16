@@ -67,7 +67,7 @@ def run_setup(build_ext):
           long_description_content_type="text/markdown",
           author='deap Development Team',
           author_email='deap-users@googlegroups.com',
-          url='https://www.github.com/deap',
+          url='https://www.github.com/znwilkins/deap',
           packages=find_packages(exclude=['examples']),
         #   packages=['deap', 'deap.tools', 'deap.tools._hypervolume', 'deap.benchmarks', 'deap.tests'],
           platforms=['any'],
